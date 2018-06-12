@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"4.8.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"cocial_network"},
+{"type":"table","name":"comments","database":"cocial_network","data":
+[
+
+]
+}
+,{"type":"table","name":"photo","database":"cocial_network","data":
+[
+
+]
+}
+,{"type":"table","name":"profile","database":"cocial_network","data":
+[
+
+]
+}
+]
