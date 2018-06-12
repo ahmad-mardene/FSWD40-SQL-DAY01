@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"4.8.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"library"},
+{"type":"table","name":"books","database":"library","data":
+[
+{"Title":"Lord of the flies","Author":"Ernest Hemmingway","Chapters":"10","Pages":"200","Category":"Fantasy","Description":"Kids on an iland and lives their life without knowing anything about the real world.","Buying_Date":"2000-01-01","Start_Date":"2000-01-01","End_Date":"2000-02-01","My_Opinion":"Nice and I don´t know why the title is called Lord of the flies!","Book_ID":"222"},
+{"Title":"Mini and Maxi","Author":"Astrid Lindgren","Chapters":"5","Pages":"35","Category":"Jugend","Description":"Mini und Maxi sind Freund fürs Leben und erleben viele tolle Sachen","Buying_Date":"1992-05-05","Start_Date":"0000-00-00","End_Date":"0000-00-00","My_Opinion":"Excellent for childrens","Book_ID":"1234567890"},
+{"Title":"Die Solare Energiewirtschaft","Author":"Hermann Scheer","Chapters":"25","Pages":"350","Category":"Fachbuch","Description":"Pflichtlektüre für Interessierte in Energiewirtschaft","Buying_Date":"0000-00-00","Start_Date":"0000-00-00","End_Date":"0000-00-00","My_Opinion":"Großartig zum Lesen und zum Nachdenken","Book_ID":"2147483647"}
+]
+}
+]
